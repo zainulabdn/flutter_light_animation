@@ -7,13 +7,12 @@ A new Flutter project.
 
 ## Getting Started
 
-
-# Screenshot 1
+# Screenshot 
 
 <img src="https://github.com/Mirzaazmath/flutter_streetlight_animation/blob/main/assets/Screenshot.png" height="400">
 
 
-# Screenshot 2
+# Screenshot
 
 <img src="https://github.com/Mirzaazmath/flutter_streetlight_animation/blob/main/assets/Screenshot2.png" height="400">
 
