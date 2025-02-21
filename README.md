@@ -1,7 +1,7 @@
 # Flutter Street Light Animation 
 
 
-A new Flutter Animate project.
+A new Flutter Animated project.
 
 
 ## Getting Started
