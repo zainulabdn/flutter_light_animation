@@ -1,4 +1,4 @@
-# Flutter Street Light Animation 
+# Flutter Street Light Animation
 A new Flutter Animated project.
 
 
